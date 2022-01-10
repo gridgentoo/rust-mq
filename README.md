@@ -1,3 +1,6 @@
+Оригинальный репозиторий.  
+https://github.com/inre/rust-mq.  
+
 # RustMQ
 
 [![Build Status](https://travis-ci.org/inre/rust-mq.svg?branch=master)](https://travis-ci.org/inre/rust-mq)
